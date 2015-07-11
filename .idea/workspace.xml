@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5537532-743c-4fb6-a992-d9d11541373c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/Raught_Roland_Output_Assignment.js" afterPath="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/Raught_Roland_Output_Assignment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Roland_Raught_SDI.iws" />
@@ -40,11 +39,9 @@
       <file leaf-file-name="Raught_Roland_Output_Assignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/Raught_Roland_Output_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5699482" vertical-offset="0" max-vertical-offset="579">
-              <caret line="19" column="139" selection-start-line="19" selection-start-column="139" selection-end-line="19" selection-end-column="139" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.12953368" vertical-offset="0" max-vertical-offset="579">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -274,11 +271,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/Raught_Roland_Output_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5699482" vertical-offset="0" max-vertical-offset="579">
-          <caret line="19" column="139" selection-start-line="19" selection-start-column="139" selection-end-line="19" selection-end-column="139" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.12953368" vertical-offset="0" max-vertical-offset="579">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
