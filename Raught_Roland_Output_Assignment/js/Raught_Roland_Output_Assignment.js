@@ -14,7 +14,7 @@ var aliasName = true; //Boolean variable
 
 //added a string variable
 var myName = "Jay";
-console.log("My real name is Roland D.J.Raught III. I go by "+myName+". Since the name has been used four times, my mother used J initial instead of Roland. My father goes by D.J. and my grandfather goes by Roland. The name comes from a family doctor named Roland Davis Jones.");
+console.log("My real name is Roland D.J.Raught III. I go by "+myName+" instead of my given name. The reason for this is four family members have the name Roland. To avoid confusing my father, grandfather and I, my mother used J initial to create the name Jay instead of Roland.");
 
 var uncle = 8; //number variable
-console.log("I am an uncle of "+uncle+" nieces and nephews!!");
+console.log("One more interesting tidbit is that I am an uncle of "+uncle+" nieces and nephews 6 boys and 2 girls!!");
