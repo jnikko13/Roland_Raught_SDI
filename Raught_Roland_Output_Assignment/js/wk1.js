@@ -5,3 +5,7 @@
  Output Assignment
  *
  */
+
+//testing connectivity
+var name = prompt("Let\'s test connectivity.\nPlease type in your name:");
+console.log(name);

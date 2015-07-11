@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5537532-743c-4fb6-a992-d9d11541373c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html" afterPath="$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js" afterPath="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js" />
     </list>
     <ignored path="Roland_Raught_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +39,8 @@
       <file leaf-file-name="wk1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -57,8 +57,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wk1.html" />
-        <option value="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js" />
         <option value="$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html" />
+        <option value="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js" />
       </list>
     </option>
   </component>
@@ -66,8 +66,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="421" />
-    <option name="y" value="366" />
+    <option name="x" value="87" />
+    <option name="y" value="129" />
     <option name="width" value="1144" />
     <option name="height" value="676" />
   </component>
@@ -207,7 +207,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="421" y="366" width="1144" height="676" extended-state="0" />
+    <frame x="87" y="129" width="1144" height="676" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -261,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
