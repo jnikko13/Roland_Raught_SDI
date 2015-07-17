@@ -39,3 +39,8 @@ console.log(newRate);
 //cast var as a number when using the +
 var weekendPrice =tollStops * Number(newRate);
 console.log(weekendPrice);
+
+
+//Final output using console.log and alert values to show prices
+console.log(name+", If you travel on the weekend, it will now cost you $"+weekendPrice+" at the adjusted price of $"+newRate+" per toll to drive this route.");
+alert(name+", Weekend travel will cost $"+weekendPrice+" at the adjusted rate $"+newRate+" per toll.");
