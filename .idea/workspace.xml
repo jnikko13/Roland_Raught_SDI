@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5537532-743c-4fb6-a992-d9d11541373c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/js/wk2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html" afterPath="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/js/wk2.js" afterPath="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/js/wk2.js" />
     </list>
     <ignored path="Roland_Raught_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,24 +27,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Raught_Expressions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html">
+      <file leaf-file-name="wk1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wk2.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Raught_Expressions.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3243243" vertical-offset="0" max-vertical-offset="555">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wk2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/js/wk2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20725389" vertical-offset="0" max-vertical-offset="579">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,8 +69,8 @@
         <option value="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/wk1.js" />
         <option value="$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/Raught_Roland_Output_Assignment.js" />
         <option value="$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html" />
-        <option value="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html" />
         <option value="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/js/wk2.js" />
+        <option value="$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html" />
       </list>
     </option>
   </component>
@@ -71,8 +78,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="93" />
+    <option name="x" value="188" />
+    <option name="y" value="118" />
     <option name="width" value="1144" />
     <option name="height" value="676" />
   </component>
@@ -129,6 +136,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Raught_Roland_Output_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Roland_Raught_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Roland_Raught_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Raught_Roland_Output_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,7 +260,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="93" width="1144" height="676" extended-state="0" />
+    <frame x="188" y="118" width="1144" height="676" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -302,14 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3243243" vertical-offset="0" max-vertical-offset="555">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/js/Raught_Roland_Output_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12953368" vertical-offset="0" max-vertical-offset="579">
@@ -318,21 +335,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html">
+    <entry file="file://$PROJECT_DIR$/Raught_Roland_Output_Assignment/wk1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/js/wk2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20725389" vertical-offset="0" max-vertical-offset="579">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Raught_Roland_Expressions_Assignment/Raught_Expressions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3243243" vertical-offset="0" max-vertical-offset="555">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
