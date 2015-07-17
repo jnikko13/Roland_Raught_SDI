@@ -30,3 +30,12 @@ var price =weekdayPrice * tollStops;
 //alert with weekday toll rates
 alert(name+", It will cost you $"+price+" in tolls for this trip at the weekday rate of $"+weekdayPrice+" per toll.");
 console.log(name+", Total cost is $"+price+" at the weekday toll rate $"+weekdayPrice+" per toll.");
+
+//alert with adjust rate for weekends
+var newRate =prompt("The tolls increase during weekend travel, enter the weekend travel price here:");
+console.log(newRate);
+
+
+//cast var as a number when using the +
+var weekendPrice =tollStops * Number(newRate);
+console.log(weekendPrice);
